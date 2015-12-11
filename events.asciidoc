@@ -1,0 +1,6 @@
+= Major US Holidays
+
+* Thanksgiving
+* Flag Day
+* Independence Day
+* Memorial Day
