@@ -5,4 +5,4 @@
 * Independence Day
 * Memorial Day
 
-<<README.asciidoc#,Back to the README>>
+link:README.asciidoc[Back to the README]
