@@ -10,4 +10,4 @@ Another descriptive paragraph.
 
 link:events.asciidoc[US Holidays]
 
-link:another.asciidoc[Misc file]
+link:another.md[Misc file]
