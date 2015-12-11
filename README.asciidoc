@@ -5,3 +5,9 @@ This is a test repository for the Git/GitHub class.
 == A section header
 
 Another descriptive paragraph.
+
+== Links
+
+link:events.asciidoc[US Holidays]
+
+link:another.asciidoc[Misc file]
