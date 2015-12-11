@@ -1,0 +1,6 @@
+= test-repository
+This is a test repository for the Git/GitHub class.
+
+== A section header
+
+Another descriptive paragraph.
